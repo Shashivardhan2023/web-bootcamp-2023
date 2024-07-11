@@ -1,6 +1,7 @@
 # CSS
 - 1em is 100% of parent tag's font size. basically relative sizing.
 - 1rem is 100% of root tag's font size.
+- [flexbox cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 # Document Object Model (DOM)
 - document.getElementBy...() functions: Id, TagName, ClassName
